@@ -24,5 +24,7 @@ For future use and purposes, I provide the following datasets
 ## Figures 
 Figures are provided in the figures [/figures/](figures/)
 
+## Report 
+The Report is provided in the [/fyp_report/](fyp_report/ethereum_reputability_fyp.pdf)
 
 
