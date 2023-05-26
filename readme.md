@@ -14,6 +14,11 @@ LightGBM can be downloaded from [here](https://lightgbm.readthedocs.io/en/latest
 
 Note: The main file is a .ipynb file, thus Jupyter Notebook is required. 
 
+## Model 
+The model itself can be found in [/models/final_mode.ipynb](/models/final_model.ipynb)
+Note that you need LightGBM, pandas, sci-kit learn to run the file.
+A complete list of libraries utilised can be found in Appendix C of the FYP report
+
 ## Datasets 
 For future use and purposes, I provide the following datasets
 
